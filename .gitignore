@@ -1,0 +1,4 @@
+/target
+/test-files
+*.sh
+Cargo.lock
