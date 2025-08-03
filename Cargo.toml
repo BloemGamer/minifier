@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-minify-html = "0.15.0"
+minify-html = "0.16.4"
+minify-js = "0.5.4"
 regex = "1.11.1"

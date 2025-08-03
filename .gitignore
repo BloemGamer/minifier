@@ -1,4 +1,5 @@
 /target
 /test-files
+/test-files (copy)
 *.sh
 Cargo.lock
