@@ -3,3 +3,4 @@
 /test-files (copy)
 *.sh
 Cargo.lock
+*.py
