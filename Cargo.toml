@@ -3,6 +3,10 @@ name = "minifier"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+name = "minifier"
+crate-type = ["cdylib"]
+
 [dependencies]
 minify-html = "0.16.4"
 minify-js = "0.5.4"
